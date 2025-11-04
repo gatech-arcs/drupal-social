@@ -1,5 +1,3 @@
-# Drupal-gin
+# Drupal Social for GT Sciences
 
-For customizations to the Gin admin theme
-
-Will be called into the drupal-admin recipe
+Will be called into the drupal-standard installer
